@@ -17,3 +17,11 @@ Install Node https://nodejs.org/en/
 **Start the server**
 
 ```npm run watch```
+
+**Run gulp**
+
+```gulp```
+
+**Run production** minify and clean css
+
+```gulp production```
