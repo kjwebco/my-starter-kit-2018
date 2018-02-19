@@ -2,11 +2,8 @@ header {
   background: red; }
 
 body {
-  background: yellow;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-orient: horizontal;
-  -webkit-box-direction: reverse;
-      -ms-flex-direction: row-reverse;
-          flex-direction: row-reverse; }
+  background-color: #2c1c1c;
+  height: 100%; }
+
+h1 {
+  color: #6969ed; }
