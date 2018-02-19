@@ -5,7 +5,6 @@ Download or Pull This Repo Top of this page you can see where it says clone or d
 
 Install Node https://nodejs.org/en/
 
-Download Atom https://atom.io/
 
 **Install all the node packages** On the root of this project run on your terminal (if you want you can do this with yarn but thats optional)
 
